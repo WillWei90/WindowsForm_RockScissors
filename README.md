@@ -89,10 +89,10 @@ A Windows Forms application implementing a simple Rock Paper Scissors game where
 
 ## File Structure
 Project/
-├── Form1.cs           # Main form code
-├── Form1.Designer.cs  # Generated UI code
-├── Program.cs         # Application entry point
-└── Resources/         # Game images and assets
+- Form1.cs           # Main form code
+- Form1.Designer.cs  # Generated UI code
+- Program.cs         # Application entry point
+- Resources/         # Game images and assets
 
 ## User Interface
 - Clean, intuitive layout
