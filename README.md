@@ -88,7 +88,6 @@ A Windows Forms application implementing a simple Rock Paper Scissors game where
 - User Input Validation
 
 ## File Structure
-Project/
 - Form1.cs           # Main form code
 - Form1.Designer.cs  # Generated UI code
 - Program.cs         # Application entry point
